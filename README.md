@@ -2,6 +2,7 @@
 
 A basic magic 8 ball in flutter.
 
+Explanation Video on Youtube: https://youtu.be/Vbq0GVWeqvE            
 Linkedin Profile Link: https://www.linkedin.com/in/mohammad-bilal-akbar-981649189/          
 Github Profile Link: https://github.com/MuhammadBilalAkbar                                         
 Youtube Channel Link: https://www.youtube.com/channel/UCu2Hy8Wzb14T37e5Adsfc8w                      
@@ -10,6 +11,8 @@ Facebook Profile Link: https://www.facebook.com/mbilalakbar0/
   <p align="center">
   <img src="FlutterMagic8BallApp.PNG" />
 </p>
+
+[![Flutter 8 Ball App](https://yt-embed.herokuapp.com/embed?v=Vbq0GVWeqvE)](https://www.youtube.com/watch?v=Vbq0GVWeqvE "Flutter 8 Ball App")
 
 ## Getting Started
 
