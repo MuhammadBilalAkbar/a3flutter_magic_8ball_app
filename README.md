@@ -12,7 +12,7 @@ Facebook Profile Link: https://www.facebook.com/mbilalakbar0/
   <img src="FlutterMagic8BallApp.PNG" />
 </p>
 
-[![Flutter 8 Ball App](https://yt-embed.herokuapp.com/embed?v=Vbq0GVWeqvE)](https://www.youtube.com/watch?v=Vbq0GVWeqvE "Flutter 8 Ball App")
+[![8 Ball App](https://yt-embed.herokuapp.com/embed?v=Vbq0GVWeqvE)](https://www.youtube.com/watch?v=Vbq0GVWeqvE "8 Ball App")
 
 ## Getting Started
 
